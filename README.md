@@ -1,8 +1,10 @@
 User Management
+
 I could experiment with ways to manage standard users. I used some SQL queries to communicate with MySQL database 
 to edit information about users such as user password and permissions for each report.  
 
 Charts choices for each data
+
 1.	Basic Client Characteristics 
 For each client characteristics such as resolution, browser and platform, I decided to use pie charts because 
 I want to show which basic characteristics users have most or less and compare the characteristics. So, the pie 
@@ -22,6 +24,7 @@ been doing so far on the website. So, I can compare events with another.
 
 
 Data Sharing
+
 	I could experiment with ways to share the reports containing charts. I decided to design this part by enabling 
   to down load the pdf files of the reports and email the pdf files to where we want to receive. I think that the 
   function of sharing the report acts an important role on the websites which show different data because we can 
@@ -33,5 +36,6 @@ Data Sharing
 
 
 Structure
+
 	When admin users login, they can see the links for each report, the list of current users and there are three links for adding, deleting and editing users. In the user editing, admin users can change standard users nickname, password and their permission for each report. 
 	When standard users login, they can see their profile and links for each reports. In the each reports, they can see charts corresponding data and they can email the charts by filling in a subject, a name and email address they send them to.
