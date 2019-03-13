@@ -30,3 +30,8 @@ Data Sharing
   pretty hard for me to convert webpage with charts, so I had to spend more time to learn this way. And I used PHPmailer 
   to email the PDF files converted by jsPDF in PHP. It was very interesting for me that I was able to send email different 
   contents not by through other subsites and I could have an opportunity to understand the mechanism of emailing. 
+
+
+Structure
+	When admin users login, they can see the links for each report, the list of current users and there are three links for adding, deleting and editing users. In the user editing, admin users can change standard users nickname, password and their permission for each report. 
+	When standard users login, they can see their profile and links for each reports. In the each reports, they can see charts corresponding data and they can email the charts by filling in a subject, a name and email address they send them to.
